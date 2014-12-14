@@ -3,7 +3,7 @@ CodeBook
 ==============================================================================
 
 Data
-==============================================================================
+------------------------------------------------------------------------------
 
 The data used in this project was collected from the accelerometers from the Samsung Galaxy S smartphone.  See here for a thorough description of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
