@@ -6,7 +6,7 @@ Included are the following:
 
 1) Instructions - explains how all of the scripts work and how they are connected (listed here in README.md)  
 
-2) Script for performing the analysis (called Script.R)
+2) Script for performing the analysis (called run_analysis.R)
 
 3) a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data. (called CodeBook.md)
 
