@@ -25,3 +25,10 @@ Running run_analysis.R
 The tidy dataset was analyzed using run_analysis.R
 Below are descriptions of the Metadata included in the dataset including variables and values:
 
+*Variables:
+
+
+*Summaries:
+
+
+*Units:
