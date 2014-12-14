@@ -1,6 +1,5 @@
 CodeBook
 ==============================================================================
-==============================================================================
 
 Data
 ------------------------------------------------------------------------------
@@ -11,7 +10,7 @@ raw = refers to the raw data collected from https://d396qusza40orc.cloudfront.ne
 
 
 Creating Clean/Tidy Data
-==============================================================================
+------------------------------------------------------------------------------
 
 raw was unzipped:
 
@@ -21,7 +20,7 @@ data was examined for tidyness:
 
 
 Running run_analysis.R
-==============================================================================
+------------------------------------------------------------------------------
 
 The tidy dataset was analyzed using run_analysis.R
 Below are descriptions of the Metadata included in the dataset including variables and values:
